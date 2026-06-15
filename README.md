@@ -1,7 +1,6 @@
 # Henrique Souza
 
-Estudante e entusiasta de sistemas embarcados, automação e desenvolvimento em Python.
-Foco em projetos que conectam hardware e software.
+Student and enthusiast of embedded systems, automation and development in Python. Focus on projects that connect hardware and software.
 
 ## Tecnologias
 
